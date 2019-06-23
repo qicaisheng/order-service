@@ -1,3 +1,4 @@
 dmall:
   inventory:
-    url: http://172.20.8.25:9081
+    url: inventory-service.team-k-dev:9081
+
