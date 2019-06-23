@@ -1,4 +1,4 @@
 dmall:
   inventory:
-    url: inventory-service.team-k-dev:9081
+    url: inventory-service:9081
 
