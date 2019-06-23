@@ -36,3 +36,9 @@ springfox:
 dmall:
   inventory:
     url: http://localhost:9081
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
